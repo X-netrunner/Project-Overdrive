@@ -1,0 +1,8 @@
+# Ignore all compiled class files anywhere in the project
+**/*.class
+*.class
+
+# Ignore dynamic data logs and save state configurations
+**/*.csv
+**/*.txt
+*.log
