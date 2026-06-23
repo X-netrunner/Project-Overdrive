@@ -84,6 +84,8 @@ Navigate core setup utilities via numerical indexing input commands inside the t
 * **Chassis Blink Displacement:** `G`
 * **Module Auxiliary Skills:** Maps cleanly via active configs (Default: `R` / `F` based on sensors/manipulators equipped).
 
+* **[NOTE] : ** You can change the keybinds from settings. 
+
 ---
 
 ## 🛠️ Installation & Compilation
